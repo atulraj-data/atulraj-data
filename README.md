@@ -1,29 +1,57 @@
 <h1 align="center">Hi 👋, I'm Atul Raj Singh</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+<h3 align="center">Exploring Patterns. Building Solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulraj-data&label=Profile%20views&color=0e75b6&style=flat" alt="atulraj-data" /> </p>
-
-- 🌱 I’m currently learning **Big data ,Apache Spark,Azure and Advanced powerbi techniques**
-
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
-
-- 🤝 I’m looking for help with **Open source contribution in Data Engineering**
-
-- 👨‍💻 All of my projects are available at [https://github.com/atulraj-data](https://github.com/atulraj-data)
-
-- 💬 Ask me about **Data Analysis**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/atulrajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atulrajsingh" height="30" width="40" /></a>
-<a href="https://kaggle.com/atulraj32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atulraj32" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%7C+MCA+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;From+Data+Choas+to+Clarity" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulraj-data&show_icons=true&locale=en&layout=compact" alt="atulraj-data" /></p>
+🎓 **MCA Completed in 2024** | **Currently pursuing Advanced Data Science & AI Certification (Learnbay)**  
+🚀 Focused on building real-world projects in data analysis, dashboards, and automation  
+🔍 Exploring cloud technologies like Azure, Big Data tools, and advanced Power BI  
+📚 Always learning. Always building. Always improving.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulraj-data&show_icons=true&locale=en" alt="atulraj-data" /></p>
+---
+
+## 🛠 Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
+
+---
+
+
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/atulrajsingh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/atulraj32" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:atulthakur7409@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atulraj-data&show_icons=true&theme=blueberry" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulraj-data&layout=compact&theme=blueberry" width="48%" />
+</p>
+
+
+
