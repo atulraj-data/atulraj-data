@@ -37,20 +37,15 @@
   </a>
   <a href="https://kaggle.com/atulraj32" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:atulthakur7409@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  
   </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulraj-data&show_icons=true&theme=blueberry" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulraj-data&layout=compact&theme=blueberry" width="48%" />
+ 
 </p>
 
 
